@@ -1,6 +1,6 @@
 {
-    "name": "random_quote_generator",
-    "short_name": "random_quote_generator",
+    "name": "task3_fitness_tracking_app",
+    "short_name": "task3_fitness_tracking_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
